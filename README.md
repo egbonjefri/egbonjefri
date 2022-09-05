@@ -1,4 +1,10 @@
-### Hi there 👋
+
+<center> <h2>Hello👋 my name is Jeffery</h2> </center>
+
+#### I'm a dedicated, innovative, self-taught web developer, with over 2 years experience.
+
+#### I'm constantly seeking ways to improve and I'm searching learning and collaboration opportunities.
+##### Please check out some of my recent projects below...
 
 <!--
 **egbonjefri/egbonjefri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
