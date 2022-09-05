@@ -3,7 +3,14 @@
 
 #### I'm a dedicated, innovative, self-taught web developer, with over 2 years experience.
 
-#### I'm constantly seeking ways to improve and I'm searching learning and collaboration opportunities.
+#### I'm constantly seeking ways to improve and I'm searching for learning and collaboration opportunities.
+- 🌱 I’m currently learning ...
+-BackEnd Development with CodeCademy
+-d3 Data Visualization with freeCodeCamp
+- 💬 Ask me about ...
+-Javascript
+-HTML
+-CSS
 ##### Please check out some of my recent projects below...
 
 <!--
