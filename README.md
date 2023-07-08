@@ -3,16 +3,25 @@
 
 <center> <h2>Hello👋 my name is Jeffery</h2> </center>
 
-#### I'm a dedicated, innovative, self-taught web developer, with over 2 years experience.
+#### I'm a physiologist by training, however my insatiable love for programming has propelled me to embark on a self-taught journey in computer science.
 
-#### I'm constantly seeking ways to improve and I'm searching for learning and collaboration opportunities.
-- 🌱 I’m currently learning...  
--BackEnd Development with CodeCademy  
--d3 Data Visualization with freeCodeCamp  
-- 💬 Ask me about ...  
--Javascript  
+#### I'm looking for a fulfilling and rewarding position in a company that values continued education and professional development.
+
+ 🌱 I’m currently learning...  
+-FullStack Development<br>
+-Machine Learning with Python
+
+ 💬 Ask me about ...  
+-Node.js  
+-Next.js  
+-Express.js  
+-React.js  
+-Laravel  
 -HTML  
 -CSS  
+
+📫 How to reach me: ...<br>
+Send me a message [here](mailto:egbonjefri@icloud.com)
 ##### Please check out some of my recent projects below...
 
 
