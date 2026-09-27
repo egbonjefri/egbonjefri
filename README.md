@@ -13,25 +13,25 @@ As part of that work, I performed contraction assays using the Cytation 5, imagi
 
 That question led me to programming. From the moment I opened a terminal window, I knew there was no going back. I had started with a specific laboratory problem, but my interest quickly grew beyond solving it: I wanted to understand how software worked and what else I could build.
 
-The idea grew into [BioRing Analyzer](https://github.com/egbonjefri/bioring_analyzer), a browser-based tool for detecting bioprinted airway rings and measuring changes in lumen area. My interests expanded from automating an analysis to building complete applications, including the interfaces people interact with and the logic and data handling underneath. That progression led me into full-stack development.
+The idea grew into BioRing Analyzer, a browser-based tool for detecting bioprinted airway rings and measuring changes in lumen area. My interests expanded from automating an analysis to building complete applications, including the interfaces people interact with and the logic and data handling underneath. That progression led me into full-stack development.
 
 I'm still interested in both sides of a research tool: the biological question it helps answer and the computational machinery that makes the answer possible.
 
 ## Selected projects
 
-### [BioRing Analyzer](https://github.com/egbonjefri/bioring_analyzer)
+### [BioRing Analyzer](https://bioringanalyzer.netlify.app/)
 
 A browser-based image-analysis tool for detecting bioprinted airway rings and measuring changes in lumen area. Connects computer vision with the experimental problem of quantifying airway contraction.
 
 **Built with:** JavaScript, TensorFlow.js, OpenCV.js, D3.js.
 
-### [Stroke Risk Prediction App](https://github.com/egbonjefri/stroke-risk-prediction-app)
+### [Stroke Risk Prediction App](https://strokepredictor.netlify.app/)
 
 An educational machine-learning application connecting an R modelling workflow to an interactive web interface through a Plumber API. Developed through AI4PH coursework on transparent and reproducible algorithms for public health.
 
 **Built with:** R, tidymodels, Plumber, JavaScript, jQuery.
 
-### [Bio-ink Calculator](https://github.com/egbonjefri/bioink_calculator)
+### [Bio-ink Calculator](https://alginatecalculator.netlify.app/)
 
 A web calculator for bio-ink preparation and dilution, translating concentration and volume calculations into a reusable laboratory tool.
 
